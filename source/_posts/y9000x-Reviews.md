@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 码农的毕业笔记本——Y9000X
+date: 2020-01-25
 categories: [产品体验, 笔记本]
 description: 满足两大爱好之一可能再也不需要买新的电脑了.
-keywords: Laptop, Lenovo, Intel, Coding
+tags: [Laptop, Lenovo, Intel, Coding]
 ---
 
 > 轻薄, 标压, 性能, "我的对手很少", 但是几乎没人能打得过我

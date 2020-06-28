@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 本地编辑 Markdown 时粘贴图片自动插入 Markdown 图片格式
+date: 2019-06-06
 categories: [使用方法, VS Code]
 description: 这可能是持续写整个博客的基础操作
-keywords: VS Code, Picgo, Paste Image, markdown, github
+tags: [VS Code, Picgo, Paste Image, markdown, github]
 ---
 
 > 这可能是持续写整个博客的基础操作

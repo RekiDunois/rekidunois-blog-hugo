@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 倍思屏幕灯简单体验
-categories: [桌面, 产品体验]
+date: 2019-12-09
+categories: [产品体验, 桌面]
 description: 灵车小件，best 小件
-keywords: 小件产品, 屏幕灯, 倍思, 桌面
+tags: [小件产品, 屏幕灯, 倍思, 桌面]
 ---
 
 > 明基, 我叫你一声你敢答应嘛？

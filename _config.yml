@@ -3,23 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: Reki家地下的大书架
+subtitle: 'ん…？べ、別に退屈とかしてないし…。してないんだから！ホントよ？'
+description: '文章应该放到这里来嘛...'
+keywords: Reki, programer, Archive, technology
+author: Reki Dunois
+language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://blog.rekidunois.cc
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_index: false # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -34,9 +34,10 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+auto_spacing: true
+titlecase: true # Transform title into titlecase
 external_link:
-  enable: true # Open external links in new tab
+  enable: false # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
@@ -47,7 +48,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace: ''
   wrap: true
   hljs: false

@@ -3,7 +3,7 @@ layout: post
 title: 我们什么时候开始不再相信我们所浏览的信息？
 categories: [随笔, 感想]
 description: 恰饭？吔屎啦你！
-keywords: 自媒体, 软广, KOL, 水军
+tag: 自媒体, 软广, KOL, 水军
 ---
 
 > 软广是人类文明的污点

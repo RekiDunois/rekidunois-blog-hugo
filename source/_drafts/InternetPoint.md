@@ -3,7 +3,7 @@ layout: post
 title: 我如何看待互联网?
 categories: [闲聊, 感悟]
 description: 可能对我来说互联网很美好, 但是也很孤独
-keywords: 互联网, 生活
+tag: 互联网, 生活
 ---
 
 > 互联网经常以开放自由作为其标签来宣传自己

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 最便宜的二手 835 安卓手机之一，我的第二台安卓智能设备！
-categories: [手机, 产品体验]
+date: 2020-01-29
+categories: [产品体验, 手机]
 description: 使用安卓就像是玩了很久人族之后换神族或者虫族
-keywords: Phone, LG, 835, 二手, Android
+tags: [Phone, LG, 835, 二手, Android]
 ---
 
 > 买这部手机的目的就是，砍口垒，哈吉马路由!
