@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 2020年的iPad能为你做什么?
+date: 2020-06-20
 categories: [产品体验, 平板电脑]
 description: iPad 的需求其实是用户自己创造的
-keywords: iPad, iOS 13
+tags: [iPad, iOS 13]
 ---
 
 > iPhone: 用户不知道他们想要什么, 直到我们推出了产品

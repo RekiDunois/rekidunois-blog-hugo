@@ -3,7 +3,7 @@ layout: post
 title: 作品中，专业性与易理解性的平衡
 categories: [闲谈, 观后感]
 description: 刀使巫女真 TM 好看
-keywords: 轻小说, 动画, 刀使巫女, 舰队collection, 吹响吧！上低音号
+tag: 轻小说, 动画, 刀使巫女, 舰队collection, 吹响吧！上低音号
 ---
 
 # 我们所度过的每个平凡的日常，也许就是连续发生的奇迹。

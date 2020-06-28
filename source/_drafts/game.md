@@ -3,7 +3,7 @@ layout: post
 title: 我都在哪些游戏世界里进行过冒险呢？
 categories: [闲谈, 回顾]
 description: 没花钱的游戏才要花时间去玩, 花钱买的游戏居然还要我花时间玩(逃
-keywords: game, 守望先锋, 炉石传说, 昆特牌, 舰队collection, 怪物猎人世界
+tag: game, 守望先锋, 炉石传说, 昆特牌, 舰队collection, 怪物猎人世界
 ---
 
 > 有时候特别怀念那些曾经玩过的游戏
