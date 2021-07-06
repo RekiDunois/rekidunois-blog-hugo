@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Notion 随笔集合（一）
-categories: [随笔, 胡言乱语]
+categories: [随笔]
 description: 谁知道我当时写这些东西的时候在想什么
-tag: 杂谈, 生活
+tag: [杂谈, 胡言乱语]
 ---
 
 今年某个时候决定开始使用 Notion，它有一个非常爽的功能就是可以直接将网页的内容保存到你的 Notion 笔记里。所以很方便用来做笔记，也很方便写些什么。

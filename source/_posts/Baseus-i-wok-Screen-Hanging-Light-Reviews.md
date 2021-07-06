@@ -2,7 +2,7 @@
 layout: post
 title: 倍思屏幕灯简单体验
 date: 2019-12-09
-categories: [产品体验, 桌面]
+categories: [产品体验, 桌面布置]
 description: 灵车小件，best 小件
 tags: [小件产品, 屏幕灯, 倍思, 桌面]
 ---

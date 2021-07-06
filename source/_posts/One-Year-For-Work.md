@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 正式工作一年半（实习以来两年半）的一点碎碎念
-categories: [胡言乱语, 阶段总结]
+categories: [阶段总结]
 description: 我花了一年多的时间来取悦自己，然后发现自己是真的菜。
-tag: 杂谈, 时间, 工作, 生活
+tag: [杂谈, 时间, 工作, 胡言乱语]
 ---
 
 > Tempora mutantur, nos et mutamur in illis;

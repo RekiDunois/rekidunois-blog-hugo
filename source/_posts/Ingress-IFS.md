@@ -2,9 +2,9 @@
 layout: post
 title: 咸鱼 Ingress 玩家的两次 IFS 之旅
 date: 2019-08-11
-categories: [手机游戏, 户外活动]
+categories: [手机游戏]
 description: 准备出门本身就是一件乐趣——寻找理由时的乐趣
-tags: [Ingress, IFS, OutDoor]
+tags: [Ingress, IFS, 户外活动]
 ---
 
 > IFS 是 Ingress First Saturday 的缩写
