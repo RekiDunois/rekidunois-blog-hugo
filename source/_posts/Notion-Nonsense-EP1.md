@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notion 随笔集合（一
+title: Notion 随笔集合（一）
 date: 2020-12-09
 categories: [随笔]
 description: 谁知道我当时写这些东西的时候在想什么
