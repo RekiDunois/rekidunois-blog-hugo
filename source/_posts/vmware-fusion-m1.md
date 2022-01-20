@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 在 M1 Mac 上使用 vmware fusion 安装 Windows 虚拟机
+title: 在 M1 Mac 上使用 VMWare fusion 安装 Windows 虚拟机
 date: 2022-01-20
-categories: [折腾日记，MacOS]
+categories: [折腾日记, MacOS]
 description: 为了打游戏煞费苦心
-tag: [MacOS, VMWare, Windows11 arm, 虚拟机，命令行，脚本]
+tag: [MacOS, VMWare, Windows11 arm, 虚拟机, 命令行, 脚本]
 ---
 
 ## 前言
