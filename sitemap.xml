@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.rekidunois.cc/links/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rekidunois.cc/repository/</loc>
     
     <lastmod>2023-01-19</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://blog.rekidunois.cc/tags/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/links/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -47,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://blog.rekidunois.cc/2021/08/why-I-like-those-unperfect-content-creators/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rekidunois.cc/2020/01/y9000x-Reviews/</loc>
     
     <lastmod>2023-01-19</lastmod>
@@ -65,16 +74,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/2021/08/why-I-like-those-unperfect-content-creators/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/books/</loc>
+    <loc>https://blog.rekidunois.cc/about/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/about/</loc>
+    <loc>https://blog.rekidunois.cc/books/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -128,34 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/2022/01/Stereotype/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/2020/11/One-Year-For-Work/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/2022/01/Takeaway-Deliverers/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/2019/06/Use-Https-In-GitHub-Page/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -173,6 +146,24 @@
   </url>
   
   <url>
+    <loc>https://blog.rekidunois.cc/2019/06/Use-Https-In-GitHub-Page/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/2022/01/Stereotype/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rekidunois.cc/2021/08/how-to-get-through-daily-life/</loc>
     
     <lastmod>2023-01-19</lastmod>
@@ -182,7 +173,16 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/2020/06/iPad-mini5-Reviews/</loc>
+    <loc>https://blog.rekidunois.cc/2020/11/One-Year-For-Work/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/2022/01/openwrt-ax6/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/2022/01/openwrt-ax6/</loc>
+    <loc>https://blog.rekidunois.cc/2020/06/iPad-mini5-Reviews/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -227,34 +227,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/2022/01/Dependency-Injection/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/2019/12/Baseus-i-wok-Screen-Hanging-Light-Reviews/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/2021/11/Gordon-Ramsay-making-ramen/</loc>
-    
-    <lastmod>2023-01-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/2020/01/LG-V30-Reviews/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -272,7 +245,34 @@
   </url>
   
   <url>
+    <loc>https://blog.rekidunois.cc/2022/01/Dependency-Injection/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rekidunois.cc/2019/08/Ingress-IFS/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/2020/01/LG-V30-Reviews/</loc>
+    
+    <lastmod>2023-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/2021/11/Gordon-Ramsay-making-ramen/</loc>
     
     <lastmod>2023-01-19</lastmod>
     
@@ -320,27 +320,6 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/backend/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/net/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/Dependency-Injection/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/tags/%E5%B0%8F%E4%BB%B6%E4%BA%A7%E5%93%81/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -369,63 +348,28 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/Phone/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/LG/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/835/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/%E4%BA%8C%E6%89%8B/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/Android/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/tags/%E7%BB%B4%E5%9F%BA%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/backend/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/net/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/Dependency-Injection/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -502,21 +446,56 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://blog.rekidunois.cc/tags/Phone/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/%E6%97%B6%E9%97%B4/</loc>
+    <loc>https://blog.rekidunois.cc/tags/LG/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://blog.rekidunois.cc/tags/835/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/%E4%BA%8C%E6%89%8B/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/Android/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/%E8%83%A1%E8%A8%80%E4%B9%B1%E8%AF%AD/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -544,35 +523,21 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/iPad/</loc>
+    <loc>https://blog.rekidunois.cc/tags/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/iOS-13/</loc>
+    <loc>https://blog.rekidunois.cc/tags/%E6%97%B6%E9%97%B4/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/tags/openwrt/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/tags/clash/</loc>
+    <loc>https://blog.rekidunois.cc/tags/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -615,6 +580,27 @@
   
   <url>
     <loc>https://blog.rekidunois.cc/tags/Reeder/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/openwrt/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/%E8%B7%AF%E7%94%B1%E5%99%A8/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/tags/clash/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -704,17 +690,31 @@
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://blog.rekidunois.cc/categories/%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/</loc>
+    <loc>https://blog.rekidunois.cc/tags/iPad/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
+    <loc>https://blog.rekidunois.cc/tags/iOS-13/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -728,7 +728,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -742,13 +742,6 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/Web-%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/categories/%E8%AE%A1%E5%88%92/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -756,35 +749,7 @@
   </url>
   
   <url>
-    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/VS-Code/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.rekidunois.cc/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/%E6%A1%8C%E9%9D%A2%E5%B8%83%E7%BD%AE/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/%E6%89%8B%E6%9C%BA/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/categories/%E9%9A%8F%E7%AC%94/%E8%B5%84%E6%96%99%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.rekidunois.cc/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -805,7 +770,42 @@
   </url>
   
   <url>
+    <loc>https://blog.rekidunois.cc/categories/%E9%9A%8F%E7%AC%94/%E8%B5%84%E6%96%99%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/Web-%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.rekidunois.cc/categories/%E8%AE%A1%E5%88%92/%E8%BF%9B%E5%BA%A6/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/VS-Code/</loc>
+    <lastmod>2023-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.rekidunois.cc/categories/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/%E6%89%8B%E6%9C%BA/</loc>
     <lastmod>2023-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
