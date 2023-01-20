@@ -7,3 +7,4 @@ public/
 .deploy*/
 yarn.lock
 source/.obsidian/
+resources/_gen
