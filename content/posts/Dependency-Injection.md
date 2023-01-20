@@ -4,7 +4,7 @@ title: 我在 .net 中使用一个有点扭曲的依赖注入配置方式
 date: 2022-01-26
 categories: [使用方法, Web 端开发]
 description: 不要 new，要依赖注入
-tag: [backend, .net, Dependency-Injection]
+tags: [backend, .net, Dependency-Injection]
 ---
 
 ## 碎碎念

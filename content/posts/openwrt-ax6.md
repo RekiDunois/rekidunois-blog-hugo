@@ -4,7 +4,7 @@ title: 年轻人的第一次 openwrt 刷机体验 feat. redmi.AX6
 date: 2022-01-04
 categories: [折腾日记, openwrt]
 description: 博主犯蠢大赏
-tag: [openwrt, 路由器, clash]
+tags: [openwrt, 路由器, clash]
 ---
 
 ## 前言

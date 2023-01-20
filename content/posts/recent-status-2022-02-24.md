@@ -4,7 +4,7 @@ title: 近况总结
 date: 2022-02-24
 categories: [阶段总结]
 description: 没有阶段成果，但是有阶段目标
-tag: [生活, 杂谈]
+tags: [生活, 杂谈]
 ---
 
 ## 前言
