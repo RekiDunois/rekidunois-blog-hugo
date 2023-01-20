@@ -55,7 +55,7 @@ logo = "/images/assets/avatar.webp"
 
 [[params.social]]
   name = "rss"
-  link = "/index.xml/"
+  link = "/atom.xml"
 
 
 # Main menu which appears below site header.
@@ -85,3 +85,5 @@ holder = ""
 startYear = "2023"
 suffix = ""
 
+[outputs]
+    home = ["HTML", "RSS"]
