@@ -1,0 +1,87 @@
+baseURL = "http://blog.rekidunois.cc"
+title = "Reki家地下的大书架"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
+
+theme = "cactus"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params]
+brand = "Reki家地下的大书架"
+description = "文章应该放到这里来嘛..."
+subtitle = "ん…？べ、別に退屈とかしてないし…。してないんだから！ホントよ？"
+title404 = "Nothing's here!"
+dark_mode = false
+DateFormat = "2006-01-02"
+defaultTheme = "light"
+disableThemeToggle = true
+author = "RekiDunois"
+rss = true
+showAllPostsArchive = true
+mainSection = "posts"
+tagsOverview = true
+logo = "/images/assets/avatar.webp"
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/RekiDunois"
+
+[[params.social]]
+  name = "email"
+  link = "rear_sketch0o@icloud.com" # no need for "mailto:" at the start
+
+[[params.social]]
+  name = "weibo"
+  link = "https://weibo.com/u/1948675963"
+
+[[params.social]]
+  name = "twitter"
+  link = "https://twitter.com/RekiDunois"
+
+[[params.social]]
+  name = "rss"
+  link = "/index.xml/"
+
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
+
+[params.copyright]
+prefix = ""
+holder = ""
+startYear = "2023"
+suffix = ""
+
