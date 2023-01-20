@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 娱乐年中总结
+title: 2022 娱乐年终总结
 date: 2023-01-19
 categories: [阶段总结]
 description: 又到了翻自己频道的时候
